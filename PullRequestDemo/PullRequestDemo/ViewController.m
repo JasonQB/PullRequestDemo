@@ -20,6 +20,9 @@
     
     NSString *helloWorld = @"helloWorld";
     NSLog(@"%@",helloWorld);
+    
+    NSString *testWord = @"testWord";
+    NSLog(@"testWord = %@",testWord);
 }
 
 

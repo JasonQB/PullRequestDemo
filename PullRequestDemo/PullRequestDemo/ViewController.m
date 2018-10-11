@@ -25,6 +25,7 @@
     NSLog(@"This will be conflict");
 
     NSString *testWordConflict = @"testWordConflict";
+    NSLog(@"This will be conflict2");
     NSLog(@"testWord = %@",testWordConflict);
     
     NSLog(@"I am a tester");

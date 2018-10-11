@@ -21,7 +21,11 @@
     NSString *helloWorld = @"helloWorld";
     NSLog(@"%@",helloWorld);
     
+
     NSLog(@"This will be conflict");
+
+    NSString *testWordConflict = @"testWordConflict";
+    NSLog(@"testWord = %@",testWordConflict);
     
     NSLog(@"I am a tester");
 }

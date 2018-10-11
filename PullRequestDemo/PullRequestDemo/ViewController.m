@@ -21,8 +21,8 @@
     NSString *helloWorld = @"helloWorld";
     NSLog(@"%@",helloWorld);
     
-    NSString *testWord = @"testWord";
-    NSLog(@"testWord = %@",testWord);
+    NSString *testWordConflict = @"testWordConflict";
+    NSLog(@"testWord = %@",testWordConflict);
     
     NSLog(@"I am a tester");
 }

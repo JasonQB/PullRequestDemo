@@ -23,6 +23,8 @@
     
     NSString *testWord = @"testWord";
     NSLog(@"testWord = %@",testWord);
+    
+    NSLog(@"I am a tester");
 }
 
 
